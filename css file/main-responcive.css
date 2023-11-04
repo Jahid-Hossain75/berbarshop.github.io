@@ -1,0 +1,237 @@
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+    .labguage_btn{
+        margin-bottom: 18px;
+    }
+    .home_section .image img {
+        margin-bottom: 110px;
+    }
+    .elementor_top_img .elementor_img_1 {
+        top: -50px;
+    }
+    .opening-hrs tbody tr td {
+        padding-left: 30px;
+    }
+    .opening-hrs tbody tr td {
+        padding-left: 30px;
+    }
+    .opening-hrs tbody tr td {
+        padding-left: 30px;
+    }
+    .post_review{
+        margin-bottom: 40px;
+    }
+    .show_review{
+        padding-left: 0;
+    }
+    .our_image_content .row{
+        flex-wrap: wrap;
+    }
+    .our_image_content .content_box{
+        flex-basis: 50%;
+        margin-bottom: 10px;
+    }
+    .left_elementor_site.elementor_text h2{
+        font-size: 35px;
+    }
+    .third_row_services_box{
+        flex-basis: 31%;
+    }
+    .recent_work_box{
+        flex-basis: 32.5%;
+    }
+    .footer_col_1,
+    .footer_col_2{
+        margin-bottom: 30px;
+    }
+    .footer_col_3 iframe {
+        height: 230px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+    .elementor_top_img .elementor_img_1 {
+        top: -40px;
+    }
+    .opening-hrs tbody tr th, td {
+        font-size: 19px;
+    }
+    .opening-hrs tbody tr td {
+        padding-left: 10px;
+    }
+    .opening-hrs tbody tr th, td {
+        font-size: 19px;
+    }
+    .opening-hrs tbody tr td {
+        padding-left: 10px;
+    }
+    section.elementor_section_2 .row {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .left_elementor_site.elementor_text{
+        margin-bottom: 20px;
+    }
+    .left_elementor_site.elementor_text h2{
+        font-size: 32px;
+    }
+    .our_image_content .row{
+        flex-direction: row !important;
+    }
+    .our_image_content .content_box {
+        flex: 1 !important;
+    }
+    .third_row_services_box{
+        flex-basis: 47%;
+    }
+    .elementor_img img {
+        margin-bottom: 30px;
+    }
+    .our_salon .row .row .grid-wrapper{
+        columns: 2;
+    }
+    .recent_work_box {
+        flex-basis: 48.7%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 576px) {
+    .two_contect_opening_hour{
+        flex-wrap: wrap;
+    }
+    .opening_hour_content {
+        margin: 0 auto 20px;
+    }
+    .opening_image{
+        text-align: center;
+    }
+    .opening_head_content {
+        margin-bottom: 35px;
+    }
+    .opening_hour .opening_head_content h2{
+        font-size: 32px;
+    }
+    .opening_hour_content .top_head_open h2{
+        font-size: 27px;
+    }
+    body p{
+        font-size: 19px !important;
+    }
+    .two_contect_opening_hour{
+        flex-wrap: wrap;
+    }
+    .opening_hour_content {
+        margin: 0 auto 20px;
+    }
+    .opening_image{
+        text-align: center;
+    }
+    .opening_head_content {
+        margin-bottom: 35px;
+    }
+    .opening_hour .opening_head_content h2{
+        font-size: 32px;
+    }
+    .opening_hour_content .top_head_open h2{
+        font-size: 27px;
+    }
+    .review_head_content h2{
+        font-size: 32px;
+    }
+    .review_head_content h3{
+        font-size: 17px;
+    }
+    .post_review_img {
+        width: 100px;
+    }
+    .post_review_content h3{
+        font-size: 22px;
+    }
+    .post_review_content h4{
+        font-size: 16px;
+    }
+    .tesi_btn_1 {
+        display: none;
+    }
+    .carousel-inner{
+        width: 100% !important;
+    }
+    .our_image_content .content_box{
+        flex-basis: 50% !important;
+        margin-bottom: 10px;
+    }
+    .head_box h2{
+        font-size: 32px;
+    }
+    .services_box h2{
+        font-size: 25px;
+    }
+    .all_services_btn a .btn{
+        font-size: 21px;
+        padding: 5px 16px;
+    }
+    .gentlement_section .row .col-lg-12 h2{
+        font-size: 32px;
+    }
+    .row.secend_row .book_top_box{
+        flex-wrap: nowrap;
+        flex-direction: row;
+        margin-bottom: 10px;
+    }
+    .row.secend_row .book_top_box span i{
+        margin-right: 15px;
+    }
+    .third_row .head_content h2{
+        font-size: 32px;
+    }
+    .third_row .select_content h2 {
+        font-size: 27px;
+    }
+    .third_row .all_service_box{
+        padding-right: 0;
+    }
+    .third_row{
+        padding: 0 10px;
+    }
+    .third_row_services_box h2{
+        font-size: 25px;
+    }
+    .our_salon .our_head_content h2{
+        font-size: 32px;
+    }
+    .row.our_row {
+        padding-right: 0;
+    }
+    .recent_work_head_content h2{
+        font-size: 32px;
+    }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 480px) {
+    .our_image_content .content_box{
+        flex-basis: 100% !important;
+    }
+    .our_image_content .row{
+        flex-direction: column !important;
+    }
+    .third_row .all_service_box{
+        gap: 0;
+    }
+    .third_row_services_box{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+        height: 245px;
+    }
+    .recent_work_box {
+        flex-basis: 100%;
+        height: auto;
+    }
+}
